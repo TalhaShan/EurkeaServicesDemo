@@ -1,0 +1,9 @@
+com\bootcampservice\customer\Customer$CustomerBuilder.class
+com\bootcampservice\customer\CustomerConfig.class
+com\bootcampservice\customer\CustomerRegistrationRequest.class
+com\bootcampservice\customer\FraudCheckResponse.class
+com\bootcampservice\customer\Customer.class
+com\bootcampservice\customer\CustomerService.class
+com\bootcampservice\customer\CustomerController.class
+com\bootcampservice\customer\CustomerApplication.class
+com\bootcampservice\customer\CustomerRepository.class

@@ -1,0 +1,7 @@
+com\bootcampservice\fraud\FraudCheckHistoryRepository.class
+com\bootcampservice\fraud\FraudCheckHistory.class
+com\bootcampservice\fraud\FraudApplication.class
+com\bootcampservice\fraud\FraudCheckService.class
+com\bootcampservice\fraud\FraudCheckResponse.class
+com\bootcampservice\fraud\FraudController.class
+com\bootcampservice\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
